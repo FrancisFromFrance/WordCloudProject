@@ -1,5 +1,5 @@
 # WordCloudProject
-This is a Java based project to generate word clouds from a text file. The program reads the file line by line, counts the frequency of each word, and adds the most common words to a new file. Then it generates a word cloud based on the frequency of the words in that file. A file has been added to ignore words that are common and should be ignored.
+This is a Java based project to generate word clouds from a text file. Generating a word cloud from user-inputted text deepened my understanding of Java programming. The process of developing the program involved using various data structures such as sorted lists, maps, and keys, which allowed me to practice and refine my skills in data manipulation and algorithms. Through this project, I was able to learn how to turn abstract concepts into concrete, working programs
 
 ### Prerequisites
 Java 8 or higher
